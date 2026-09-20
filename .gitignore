@@ -1,0 +1,13 @@
+# Data (regenerated from public sources; not distributed)
+data/*
+!data/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS
+.DS_Store

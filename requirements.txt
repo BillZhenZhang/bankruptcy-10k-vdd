@@ -1,0 +1,7 @@
+beautifulsoup4
+numpy
+pandas
+scikit-learn
+scipy
+statsmodels
+tqdm
